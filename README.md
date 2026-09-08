@@ -1,3 +1,13 @@
+## Interactive Dashboard
+
+[Explore the NBA Offensive Gravity Dashboard on Tableau Public](https://public.tableau.com/app/profile/alexandre.tounkara3088/viz/NBA_Gravity_V6_Publishing_FINALE/Dashboard1)
+
+Explore 252 player rankings and the relationship between 3-point
+attempts per 36 minutes and Offensive Gravity Score.
+Search for a player to highlight them across both charts.
+
+
+
 # NBA Offensive Gravity
 
 ## Why I Built This
